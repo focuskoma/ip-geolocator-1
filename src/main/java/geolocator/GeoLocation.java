@@ -1,3 +1,5 @@
+package geolocator;
+
 record GeoLocation(
     String as,
     String city,
